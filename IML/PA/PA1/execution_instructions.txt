@@ -1,0 +1,6 @@
+I did my homework in one single Jupyter Notebook.
+This notebook is attached with all the inputs( and outputs) it uses.
+One needs to download it, open it for example using Anaconda, and click on the
+,,restart the kernel, then re-run the whole notebook (with dialog),, button, and
+all the blocks will be executed.
+My report is included in the notebook via markdown cells and print outputs.

@@ -1,0 +1,59 @@
+ON:
+
+Foundations:
+Graph Algorithms and Network Flows - 4 ETCS
+Multivariate Time Series Analysis - 4 ETCS, but 3:15 hours a week
+Signal and Image Processing - 6 ETCS, but not the best date
+Parallel Computing - 6 ETCS, but not the best date
+Program Optimisations and Runtime Systems - 6 ETCS
+Empirical Methods in Decision Sciences - 4 ETCS
+Machine translation - 4 ECTS
+
+Applications:
+
+
+OFF:
+
+Foundations:
+Advanced Operations Research - mandatory attendance
+Nonparametric Inference and Resampling - redundant, bad credit/classes ratio
+Probabiltiy Theory 2 - redundant, bad credit/classes ratio
+Methods of Decision Support - redundant
+Algorithms and Data Structures 2 - bad date, only 3 ETCS
+Numerical Algorithms - kind of bad date, not interesting, only 3 ETCS
+Software Tools for Computational and Data Science  - mandatory attendance, required C knowledge
+Distributed and Parallel Algorithms - not interesting
+Information Management & Systems Engineering - lecture is on Friday
+Distributed Systems Engineering - required Java knowledge
+High Performance Computing - bad date
+Scientific Data Management - lecture is on Friday
+Advanced Software Engineering - bad date
+Advanced numerical analysis - not interesting
+Dynamical Systems and Nonlinear Differential Equations - lecture is on Friday, not interesting
+Mathematical Ecology - bad date
+Climate Data Analysis - bad date
+Applied Econometrics 1 - bad date
+Supply Chain Management - mandatory attendance
+Biometrics 1 - in German
+Seminar in Empirical Finance and Financial Econometrics - lecture is on Friday
+Image Synthesis - bad date
+Multimedia Content Management - lecture is on Friday
+Algorithmic bioinformatics - lecture is on Friday
+Bioinformatics of sequences and structures - bad date
+Lecture Series: Introduction to Digital Humanities - not interesting
+Reading Course for the Lecture Series (Digital Humanities) - in German
+Introduction to Cognitive Psychology- not interesting
+Practical Course Bioinformatics of Nucleic Acids - mandatory attendance
+Chemical Informatics - not interesting
+Practical Course: Computersimulation of Biopolymeres - in German
+Bioinformatics of Nucleic Acids - in German
+Modern Quantum Chemistry - not interesting
+Introduction to metabolic modelling - not interesting
+*omics Integration - in German
+Research Example from Theoretical Chemistry - not interesting
+Computer Simulation of Biopolymeres - not interesting
+Climate Modelling Lab - not interesting
+Computational methods in microbial ecology - not interesting
+Structural Bioinformatics II - not interesting
+
+Applications:

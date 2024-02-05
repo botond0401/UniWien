@@ -1,0 +1,42 @@
+
+What to know:
+
+5. Quadratic minimization
+- linear system, over/under-determined, ill-conditioned, kernel, range, rank, their lemmas
+- unique solution theorem, n<m theorem, GD for least squares, optimal alpha
+- implicit bias, steepest descent is easier
+
+6. Newton method
+- motivation, original/optimization formula
+- Hessian L-smooth lemma, convergence theorem, affin invariance
+
+7. Quasi-Newton methods
+- variable metric methods, rank-onde update, DFP update (PD lemma)
+- BFGS update, S-M formula, S-M-W formula
+- Wolfe condition
+
+8. Algortihms for deep learning
+- stochastic heavy ball method, 2 forms and their equivalence
+- AdaGrad, RMSProp, Adam
+
+9. Constrained optimization
+- C, feasible, more specific C
+- equality constraints, Lagrange multipliers
+- p* equation, Lagrangian multiplier, maxmin<=minmax
+- dual problem, weak duality, constraint qualifications condition
+
+10. Constrained optimization: inequality constraints and general form
+- (in)active function, nonnegative Lagrangian, constrained dual
+- KKT condition, complementary slackness condition
+- Optimality condition, metric projection, constrained GD
+
+Things to cover:
+- GD for least squares problem
+- Newton method steepest descent
+
+Examples to add:
+- Example 4
+
+Errors:
+- (5.14) should be x_0 instead of x_k, secant equation
+- (9.3) instead of (9.2), (9.3) should be in the red brackets
